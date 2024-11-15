@@ -30,16 +30,16 @@ This commands includes
 
 ## Output
 ![378201380-b548d336-aff7-42dc-a63d-ff8c2ecaab12](https://github.com/user-attachments/assets/ad81b70c-dc95-436a-86a2-531f08ad313f)
-#IPCONFIG
+# IPCONFIG
 ## Output
 ![378201412-8fe8da33-30db-49f6-9a22-bf975ddb5c92](https://github.com/user-attachments/assets/aac42156-672b-42ba-8018-6ec3c34d19e3)
-#NBTSTAT
+# NBTSTAT
 ## Output
 ![378201439-1a786212-c497-4b5a-9876-2bef2813fe80](https://github.com/user-attachments/assets/c51e63e6-dbe8-49d2-942b-886d241da42d)
-#NSLOOKUP
+# NSLOOKUP
 ## Output
 ![378201800-79bf5b2f-ab8b-4467-af41-c73935f93aa2](https://github.com/user-attachments/assets/5f48068e-cc18-45c7-b70f-014c732af270)
-#NETSTAT
+# NETSTAT
 ## Output
 ![378201831-02fc8f2b-9462-40d1-9335-1f49508f3bc2](https://github.com/user-attachments/assets/30a9da32-63cd-413f-abfd-6fc79262cc0d)
 
